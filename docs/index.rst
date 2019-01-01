@@ -19,6 +19,19 @@ KokuminTeamPvP プラグイン自体は、 Discord 内 DM にて購入を受け�
    tutorial/first
    tutorial/yml
 
-.. seealso::
+.. toctree::
+   :maxdepth: 1
+   :caption: ゲームモード:
+   
+   gamemode/ctw
+   gamemode/dtm
 
-   * :ref:`search`
+.. toctree::
+   :maxdepth: 1
+   :caption: 参考資料:
+   
+   tutorial/sample-yml
+   data/dyecolor
+   data/teamcolor
+
+* :ref:`search`
