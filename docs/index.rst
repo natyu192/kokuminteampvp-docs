@@ -23,8 +23,10 @@ KokuminTeamPvP プラグイン自体は、 Discord 内 DM にて購入を受け�
    :maxdepth: 1
    :caption: ゲームモード:
    
+   gamemode/anni
    gamemode/ctw
    gamemode/dtm
+   gamemode/tdm
 
 .. toctree::
    :maxdepth: 1
@@ -32,6 +34,7 @@ KokuminTeamPvP プラグイン自体は、 Discord 内 DM にて購入を受け�
    
    tutorial/sample-yml
    data/dyecolor
+   data/gametype
    data/teamcolor
 
 * :ref:`search`
