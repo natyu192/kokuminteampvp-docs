@@ -34,7 +34,9 @@ KokuminTeamPvP プラグイン自体は、 Discord 内 DM にて購入を受け�
    
    tutorial/sample-yml
    data/dyecolor
+   data/enchantment
    data/gametype
+   data/material
    data/teamcolor
 
 * :ref:`search`
