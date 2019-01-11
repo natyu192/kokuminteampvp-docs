@@ -7,6 +7,15 @@ config.yml のサンプル
 	gametype: CTW
 	allow-build: true
 	fall-damage: true
+	teams:
+	  red:
+	    name: 'Red Team'
+	    color: red
+	    max: 16
+	  blue:
+	    name: 'Blue Team'
+	    color: blue
+	    max: 16
 	wools:
 	  lightblue:
 	    team: blue
