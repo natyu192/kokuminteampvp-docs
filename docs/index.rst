@@ -9,8 +9,7 @@ Welcome to KokuminTeamPvP Plugin YML's documentation!
 このサイトは Minecraft の Bukkit サーバー用の KokuminTeamPvP という PvP ゲームプラグインのマップの設定方法を記述してあります。
 どのようなプラグインなのかは `こちらの動画 <https://www.youtube.com/watch?v=0ZtPD4e_Xq0>`_ をご覧ください。
 
-KokuminTeamPvP プラグイン自体は、 Discord 内 DM にて購入を受け付けております。
-**Discord ID: Nucha#8495**
+プラグインは GitHub の `releases <https://github.com/natyu192/KokuminTeamPvP>`_ からダウンロードすることができます。
 
 .. toctree::
    :maxdepth: 1
