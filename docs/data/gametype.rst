@@ -6,8 +6,8 @@ gametype
 ===== ==================
 ID    表示名
 ===== ==================
-anni  Annihilation
-ctw   Capture the Wool
-dtm   Destroy the Monument
-tdm   Team Deathmatch
+ANNI  Annihilation
+CTW   Capture the Wool
+DTM   Destroy the Monument
+TDM   Team Deathmatch
 ===== ==================
