@@ -271,6 +271,7 @@ lore              アイテムの説明文。                                   
 unbreakable       true にすると耐久値が無限になる。                       true/false                                  false
 enchantments      エンチャントを付与する。                                :doc:`../data/enchantment`:レベル(数値)
 leather_color     革防具に染色する。                                      :doc:`../data/dyecolor` または カラーコード
+color             革防具以外に染色する。                                  :doc:`../data/dyecolor`
 ================= ======================================================= =========================================== =========================
 
 ``leather_color`` は、 :doc:`../data/dyecolor` か Hex 形式のカラーコードが指定可能です。 (例: #5555ff) Hex形式で指定する場合、 ``''`` で囲まなければなりません。
