@@ -1,7 +1,7 @@
 DyeColor
 =========
 
-羊毛の色です
+羊毛や色付きガラス、粘土の色です。
 
 .. csv-table::
 	:header: "Enum"
